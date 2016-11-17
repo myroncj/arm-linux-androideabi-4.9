@@ -15,5 +15,4 @@ File: dir,	Node: Top	Dies ist der Beginn des INFO-Baums
 * Menu:
 
 Software development
-* gccinstall: (gccinstall).     Installing the GNU Compiler Collection.
 * gccint: (gccint).             Internals of the GNU Compiler Collection.
